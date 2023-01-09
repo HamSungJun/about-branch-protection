@@ -9,3 +9,6 @@ Direct Push To Master, Disable ByPass
 
 [2023-01-09 PM 17:44]
 Direct Force Push To Master, Disable ByPass
+
+[2023-01-09 PM 17:47]
+Direct Push To Master, Disable ByPass, Require Pull Request
