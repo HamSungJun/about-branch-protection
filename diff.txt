@@ -15,3 +15,6 @@ Direct Push To Master, Disable ByPass, Require Pull Request
 
 [2023-01-09 PM 17:50]
 Direct Push To Master, Enable ByPass, Require Pull Request
+
+[2023-01-10 PM 14:38]
+With Code Owners
